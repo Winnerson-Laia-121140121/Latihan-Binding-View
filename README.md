@@ -1,2 +1,2 @@
 # Latihan-Binding-View
-Latihan 2 Pengembangan Aplikasi Mobile
+Latihan 3Pengembangan Aplikasi Mobile
